@@ -1,0 +1,13 @@
+C:\Users\Lyxlu\Desktop\November\November\bin\Debug\netcoreapp3.1\November.exe
+C:\Users\Lyxlu\Desktop\November\November\bin\Debug\netcoreapp3.1\November.deps.json
+C:\Users\Lyxlu\Desktop\November\November\bin\Debug\netcoreapp3.1\November.runtimeconfig.json
+C:\Users\Lyxlu\Desktop\November\November\bin\Debug\netcoreapp3.1\November.runtimeconfig.dev.json
+C:\Users\Lyxlu\Desktop\November\November\bin\Debug\netcoreapp3.1\November.dll
+C:\Users\Lyxlu\Desktop\November\November\bin\Debug\netcoreapp3.1\November.pdb
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.csprojAssemblyReference.cache
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.AssemblyInfoInputs.cache
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.AssemblyInfo.cs
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.csproj.CoreCompileInputs.cache
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.dll
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.pdb
+C:\Users\Lyxlu\Desktop\November\November\obj\Debug\netcoreapp3.1\November.genruntimeconfig.cache
